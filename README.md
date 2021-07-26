@@ -47,7 +47,7 @@ Many experiments will be performed in order to find the best classifiers with pr
 
 ## Resources:
 
-* Pre-processing of hyperspectral images. Essential steps before image analysis by Maider Vidal (link)[https://www.researchgate.net/publication/236244862_Pre-processing_of_hyperspectral_images_Essential_steps_before_image_analysis]
-* Scikit-learn documentation (link)[https://scikit-learn.org/stable/]
+* Pre-processing of hyperspectral images. Essential steps before image analysis by Maider Vidal ([link](https://www.researchgate.net/publication/236244862_Pre-processing_of_hyperspectral_images_Essential_steps_before_image_analysis))
+* Scikit-learn documentation ([link](https://scikit-learn.org/stable/))
 * IML course from EPITA
 
