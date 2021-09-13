@@ -43,7 +43,7 @@ Many experiments will be performed in order to find the best classifiers with pr
         * Recap of salinas classifiers
 * Impact of the gaussian blur
 * Performance of the best classifier
-    Tasks distribution
+* Tasks distribution
 
 ## Resources:
 
